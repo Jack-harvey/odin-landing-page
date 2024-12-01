@@ -42,6 +42,11 @@ body {
   list-style: none;
 }
 
+.header-link a {
+  text-decoration: none;
+  color: #c6d0f5;
+}
+
 .full-bleed {
   box-shadow: 0 0 0 100vmax #232634;
   clip-path: inset(0 -100vmax);
